@@ -12,7 +12,7 @@ I'm Jungwoo Lee, an JAVA back-end developer. 🌱 <br>
   <a href="https://velog.io/@jwoo5264"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jwoo5264"/></a>&nbsp
   <a href="https://www.instagram.com/jwoo.ooo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jwoo.ooo/"/></a>&nbsp
   <a href="mailto:jwoo5264@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jwoo5264@gmail.com"/></a>&nbsp
-  <a href="https://enormous-diploma-92d.notion.site/adf45d63e37d40babfd533f9cf6f14b7?pvs=4"><img src="https://img.shields.io/badge/Portfilo-#000000?style=flat-square&logo=notion&logoColor=white&link=https://enormous-diploma-92d.notion.site/adf45d63e37d40babfd533f9cf6f14b7?pvs=4"/></a>&nbsp
+  <a href="https://enormous-diploma-92d.notion.site/adf45d63e37d40babfd533f9cf6f14b7?pvs=4"><img src="https://img.shields.io/badge/notion-#000000?style=flat-square&logo=notion&logoColor=white&link=https://enormous-diploma-92d.notion.site/adf45d63e37d40babfd533f9cf6f14b7?pvs=4"/></a>&nbsp
 	
 </p>
 <br>
