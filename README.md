@@ -2,7 +2,7 @@
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
-I'm Jungwoo Lee, an JAVA back-end developer. 🌱 <br>
+I'm Jungwoo Lee, a back-end developer. 🌱 <br>
 
 </p>
 
